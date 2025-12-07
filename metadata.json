@@ -1,0 +1,7 @@
+{
+  "name": "Gesture Christmas Magic",
+  "description": "A high-end, cinematic 3D Christmas experience controlled by hand gestures. Features particle systems, photo clouds, and interactive transitions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
